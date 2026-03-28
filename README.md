@@ -1,4 +1,3 @@
-<img width="1700" height="941" alt="Screenshot 2026-03-29 at 12 44 01 AM" src="https://github.com/user-attachments/assets/b95060db-8ea5-4c31-a710-27f9ed57bc5f" /># Tableau Projects
 
 A collection of Tableau workbooks built as part of my data visualisation 
 learning journey, covering finance, sales, and business analytics use cases.
@@ -10,9 +9,9 @@ learning journey, covering finance, sales, and business analytics use cases.
 **File:** `FIRST TABLEAU WORKBOOK.twbx`
 
 ### Preview
+<img width="1685" height="955" alt="Screenshot 2026-03-29 at 12 43 45 AM" src="https://github.com/user-attachments/assets/21528e3f-4fb6-4653-85ee-c5a38d3beaf4" />
 
 <img width="1700" height="941" alt="Screenshot 2026-03-29 at 12 44 01 AM" src="https://github.com/user-attachments/assets/6ccfe0ec-30c0-4efc-b386-a7ee5d22c4ff" />
-<img width="1685" height="955" alt="Screenshot 2026-03-29 at 12 43 45 AM" src="https://github.com/user-attachments/assets/21528e3f-4fb6-4653-85ee-c5a38d3beaf4" />
 
 
 ### Overview
